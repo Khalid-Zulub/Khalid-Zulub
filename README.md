@@ -91,14 +91,14 @@ My goal is to become a professional software engineer who creates reliable, scal
 
 Knowledge and experience with:
 
-- 🔹 Cisco Router and Switch Configuration
-- 🔹 IP Addressing & Subnetting
-- 🔹 VLAN Configuration
-- 🔹 Routing Protocols (RIP, OSPF, EIGRP)
-- 🔹 LAN/WAN Architecture
-- 🔹 TCP/IP Networking
-- 🔹 Network Troubleshooting
-- 🔹 Basic Network Security
+🔹 Cisco Router and Switch Configuration
+🔹 IP Addressing & Subnetting
+🔹 VLAN Configuration
+🔹 Routing Protocols (RIP, OSPF, EIGRP)
+🔹 LAN/WAN Architecture
+🔹 TCP/IP Networking
+🔹 Network Troubleshooting
+🔹 Basic Network Security
 
 
 ---
