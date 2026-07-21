@@ -7,11 +7,12 @@
 </h3>
 
 <p align="center">
-Building modern web applications, solving problems, and turning ideas into digital solutions.
+Building scalable applications, creating digital solutions, and continuously improving my skills.
 </p>
 
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Computer+Science+Student;React+%7C+Node.js+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Computer+Science+Student;React+%7C+Node.js+Developer;Software+Engineering+Enthusiast" />
 </p>
 
 
@@ -22,31 +23,32 @@ Building modern web applications, solving problems, and turning ideas into digit
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I'm a **Computer Science student** and an aspiring **Software Engineer** passionate about designing and developing modern applications.
+Hello! I'm **Khalid Abdirahman**, a Computer Science student and aspiring Software Engineer passionate about building modern software solutions.
 
-I enjoy working across the full development stack — from creating beautiful user interfaces to building powerful backend systems and databases.
+I enjoy developing applications that solve real-world problems and exploring different areas of technology including:
 
-Currently, I focus on improving my skills in:
-
-- 🌐 Full Stack Web Development
-- ⚛️ React & Modern Frontend Technologies
-- ⚙️ Backend Development
-- 🗄️ Database Design
+- 💻 Full Stack Web Development
+- ⚛️ Modern Frontend Development
+- ⚙️ Backend Engineering
+- 🗄️ Database Systems
 - 🌐 Computer Networking
-- 🔐 Software Engineering Practices
+- 🔐 Software Security
+
+
+My goal is to become a professional software engineer who creates reliable, scalable, and impactful applications.
 
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Technologies & Tools
 
 
 ## 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,php,js" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,php,javascript" />
 </p>
 
 
@@ -64,99 +66,107 @@ Currently, I focus on improving my skills in:
 </p>
 
 
-## 🗄️ Database
+## 🗄️ Database Technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 
-## 🔧 Tools & Platforms
+## 🔧 Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,postman,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux" />
 </p>
 
 
-## 🌐 Networking
+---
+
+# 🌐 Networking & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=cisco" />
+<img src="https://skillicons.dev/icons?i=cisco,linux" />
 </p>
+
+
+Knowledge and experience with:
+
+- 🔹 Cisco Router and Switch Configuration
+- 🔹 IP Addressing & Subnetting
+- 🔹 VLAN Configuration
+- 🔹 Routing Protocols (RIP, OSPF, EIGRP)
+- 🔹 LAN/WAN Architecture
+- 🔹 TCP/IP Networking
+- 🔹 Network Troubleshooting
+- 🔹 Basic Network Security
 
 
 ---
 
 # 🚀 What I Build
 
+
 💻 Full Stack Web Applications  
 🌐 Responsive Websites  
 ⚡ REST APIs  
-🗄️ Database Systems  
-🔐 Secure Applications  
-🌎 Networking Projects  
+🗄️ Database-Driven Applications  
+🔐 Secure Software Solutions  
+🌍 Networking Projects  
 
 
 ---
 
 # 📌 Featured Projects
 
-### 🚚 Delivery Application
-A full-stack delivery platform designed to connect customers and businesses.
+
+## 🚚 Delivery Application
+
+A full-stack delivery platform designed to connect customers and businesses through a modern digital solution.
 
 **Technologies:**
+
 React • Node.js • Database • REST API
-
-
-### 🌐 Networking Projects
-Cisco Packet Tracer projects including:
-
-- Router Configuration
-- VLAN
-- Routing Protocols
-- Network Security
-
-
-### 💻 Web Applications
-
-Building projects using:
-
-React  
-JavaScript  
-Tailwind CSS  
-PHP  
-SQL  
 
 
 ---
 
-# 📊 GitHub Analytics
+## 🌐 Cisco Networking Projects
+
+Network simulation projects using Cisco Packet Tracer.
+
+Includes:
+
+- Router Configuration
+- Switch Configuration
+- VLAN Implementation
+- Routing Protocols
+- Network Connectivity
 
 
-<p align="center">
+---
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Khalid-zulub&show_icons=true&theme=tokyonight&hide_border=true"/>
+## 💻 Web Development Projects
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalid-zulub&layout=compact&theme=tokyonight&hide_border=true"/>
+Applications built using:
 
-</p>
-
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Khalid-zulub&theme=tokyonight&hide_border=true"/>
-
-</p>
+- React
+- JavaScript
+- Tailwind CSS
+- PHP
+- SQL
 
 
 ---
 
 # 🌱 Currently Learning
 
-🚀 Advanced React Patterns  
+
+🚀 Advanced React Development  
 🚀 Backend Architecture  
-🚀 Cloud Technologies  
-🚀 Software Engineering Principles  
+🚀 Database Optimization  
+🚀 Cloud Computing  
+🚀 Cyber Security Fundamentals  
+🚀 Software Engineering Practices  
 
 
 ---
@@ -167,19 +177,22 @@ SQL
 <p align="center">
 
 <a href="https://github.com/Khalid-zulub">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
 </a>
+
 
 <a href="https://facebook.com/KhalidZulub252">
-<img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook"/>
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
 </a>
+
 
 <a href="https://instagram.com/Khalid_zulub">
-<img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
 
+
 <a href="https://x.com/Khalid_zulub">
-<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x"/>
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
 </a>
 
 </p>
@@ -189,11 +202,11 @@ SQL
 
 <h3 align="center">
 
-⭐ "Code. Learn. Build. Improve." ⭐
+⭐ Code • Learn • Build • Improve ⭐
 
 </h3>
 
 
 <p align="center">
-Thanks for visiting my profile 🚀
+Thank you for visiting my GitHub profile 🚀
 </p>
