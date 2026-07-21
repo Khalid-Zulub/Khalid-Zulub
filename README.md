@@ -1,19 +1,199 @@
-# 💫 About Me:
-# 👋 Hi, I'm Khalid Abdirahman<br><br><h3 align="center"><br>🚀 Software Engineer | Full Stack Developer | Problem Solver<br></h3><br><br><p align="center"><br>  I am a Computer Science student passionate about building modern, scalable, <br>  and user-friendly applications. I enjoy creating web applications, exploring <br>  new technologies, and solving real-world problems through software.<br></p><br><br><p align="center"><br>  <img src="https://komarev.com/ghpvc/?username=Khalid-zulub&label=Profile%20Views&color=blue&style=flat" /><br></p><br><br>---<br><br>## 🚀 About Me<br><br>- 🎓 Computer Science Student<br>- 💻 Software Engineer & Full Stack Developer<br>- 🌱 Currently improving my skills in modern web development<br>- 🔭 Interested in Web Applications, Software Engineering, and Networking<br>- ⚡ Love learning new technologies and building projects<br>- 🎯 Goal: Become a professional software engineer<br><br>---<br><br>## 🛠️ Technologies & Tools<br><br>### 💻 Programming Languages<br><br><p><br><img src="https://skillicons.dev/icons?i=java,python,cpp,c,php,js" /><br></p><br><br>### 🌐 Frontend Development<br><br><p><br><img src="https://skillicons.dev/icons?i=html,css,react,tailwind" /><br></p><br><br>### ⚙️ Backend & Database<br><br><p><br><img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" /><br></p><br><br>### 🔧 Tools & Other Technologies<br><br><p><br><img src="https://skillicons.dev/icons?i=git,github,linux,postman" /><br></p><br><br>### 🌐 Networking<br><br><p><br><img src="https://skillicons.dev/icons?i=cisco" /><br></p><br><br>---<br><br># 📌 Featured Skills<br><br>```text<br>Frontend:<br>✓ HTML5<br>✓ CSS3<br>✓ JavaScript<br>✓ React.js<br>✓ Tailwind CSS<br><br>Backend:<br>✓ Node.js<br>✓ PHP<br>✓ REST APIs<br><br>Programming:<br>✓ Java<br>✓ Python<br>✓ C/C++<br><br>Database:<br>✓ MySQL<br>✓ MongoDB<br><br>Tools:<br>✓ Git & GitHub<br>✓ Postman<br>✓ Linux<br><br>Networking:<br>✓ Cisco Networking<br>✓ Network Configuration
+<h1 align="center">
+  👋 Hi, I'm Khalid Abdirahman
+</h1>
+
+<h3 align="center">
+🚀 Software Engineer | Full Stack Developer
+</h3>
+
+<p align="center">
+Building modern web applications, solving problems, and turning ideas into digital solutions.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Computer+Science+Student;React+%7C+Node.js+Developer;Always+Learning+New+Technologies" />
+</p>
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/KhalidZulub252) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Khalid_zulub) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Khalid_zulub) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Khalid_zulub) 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Khalid-zulub&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Khalid-Zulub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Khalid-Zulub&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Khalid-Zulub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Khalid-Zulub&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 👨‍💻 About Me
+
+I'm a **Computer Science student** and an aspiring **Software Engineer** passionate about designing and developing modern applications.
+
+I enjoy working across the full development stack — from creating beautiful user interfaces to building powerful backend systems and databases.
+
+Currently, I focus on improving my skills in:
+
+- 🌐 Full Stack Web Development
+- ⚛️ React & Modern Frontend Technologies
+- ⚙️ Backend Development
+- 🗄️ Database Design
+- 🌐 Computer Networking
+- 🔐 Software Engineering Practices
+
+
+---
+
+# 🛠️ Tech Stack
+
+
+## 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,php,js" />
+</p>
+
+
+## 🌐 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+
+## ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+
+## 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+
+## 🔧 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,postman,docker" />
+</p>
+
+
+## 🌐 Networking
+
+<p>
+<img src="https://skillicons.dev/icons?i=cisco" />
+</p>
+
+
+---
+
+# 🚀 What I Build
+
+💻 Full Stack Web Applications  
+🌐 Responsive Websites  
+⚡ REST APIs  
+🗄️ Database Systems  
+🔐 Secure Applications  
+🌎 Networking Projects  
+
+
+---
+
+# 📌 Featured Projects
+
+### 🚚 Delivery Application
+A full-stack delivery platform designed to connect customers and businesses.
+
+**Technologies:**
+React • Node.js • Database • REST API
+
+
+### 🌐 Networking Projects
+Cisco Packet Tracer projects including:
+
+- Router Configuration
+- VLAN
+- Routing Protocols
+- Network Security
+
+
+### 💻 Web Applications
+
+Building projects using:
+
+React  
+JavaScript  
+Tailwind CSS  
+PHP  
+SQL  
+
+
+---
+
+# 📊 GitHub Analytics
+
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Khalid-zulub&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalid-zulub&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Khalid-zulub&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
+---
+
+# 🌱 Currently Learning
+
+🚀 Advanced React Patterns  
+🚀 Backend Architecture  
+🚀 Cloud Technologies  
+🚀 Software Engineering Principles  
+
+
+---
+
+# 🤝 Connect With Me
+
+
+<p align="center">
+
+<a href="https://github.com/Khalid-zulub">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://facebook.com/KhalidZulub252">
+<img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook"/>
+</a>
+
+<a href="https://instagram.com/Khalid_zulub">
+<img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram"/>
+</a>
+
+<a href="https://x.com/Khalid_zulub">
+<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x"/>
+</a>
+
+</p>
+
+
+---
+
+<h3 align="center">
+
+⭐ "Code. Learn. Build. Improve." ⭐
+
+</h3>
+
+
+<p align="center">
+Thanks for visiting my profile 🚀
+</p>
