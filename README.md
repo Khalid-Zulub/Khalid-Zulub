@@ -55,7 +55,7 @@ My goal is to become a professional software engineer who creates reliable, scal
 ## 🌐 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind" />
 </p>
 
 
@@ -85,7 +85,7 @@ My goal is to become a professional software engineer who creates reliable, scal
 # 🌐 Networking & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=cisco,linux" />
+<img src="https://skillicons.dev/icons?i=linux" />
 </p>
 
 
